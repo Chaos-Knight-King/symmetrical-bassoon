@@ -1,0 +1,9 @@
+body
+{
+    background: linear-gradient(blueviolet, rgb(155, 110, 204) rgb(105, 145, 236));
+    margin: 10px;
+}
+ol
+{
+    box-shadow: (5px, 5px, 10px, red);
+}
